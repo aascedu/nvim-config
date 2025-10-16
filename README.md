@@ -14,6 +14,6 @@ fish shell:
 ```
 if status is-interactive
     # ...
-    set PATH /home/aascedu/.local/bin $PATH
+    set PATH $HOME/.local/bin $PATH
 end
 ```
