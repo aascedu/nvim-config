@@ -8,3 +8,4 @@ rm -vrf .local/bin/nvim .local/lib/nvim .local/share/nvim
 mv -v nvim-linux-x86_64/bin/nvim .local/bin/nvim
 mv -v nvim-linux-x86_64/lib/nvim .local/lib/nvim
 mv -v nvim-linux-x86_64/share/nvim .local/share/nvim
+rm -vrf nvim-linux-x86_64
