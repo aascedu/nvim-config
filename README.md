@@ -13,8 +13,7 @@ everything needed to install and configure neovim
 fish shell:
 ```
 if status is-interactive
-	starship init fish | source
-	set PATH /home/aascedu/.local/bin $PATH
-    # Commands to run in interactive sessions can go here
+    # ...
+    set PATH /home/aascedu/.local/bin $PATH
 end
 ```
